@@ -7,3 +7,4 @@ packaging~=24.0
 zipp~=3.15.0
 Django~=3.2.24
 django-cors-headers==4.1.0
+aima~=2023.2.5
