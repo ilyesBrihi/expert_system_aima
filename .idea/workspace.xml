@@ -7,6 +7,60 @@
     <list default="true" id="5609e4be-ba7b-454a-8df4-9e4248c077be" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima-2023.2.5.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima-2023.2.5.dist-info/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima-2023.2.5.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima-2023.2.5.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima-2023.2.5.dist-info/REQUESTED" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima-2023.2.5.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima-2023.2.5.dist-info/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/aima/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/agents.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/aima/agents.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/agents4e.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/csp.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/aima/csp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/deep_learning4e.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/games.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/aima/games.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/games4e.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/hobs/agents.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/hobs/csp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/hobs/games.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/hobs/learning.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/hobs/logic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/hobs/mdp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/hobs/nlp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/hobs/planning.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/hobs/probability.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/hobs/search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/hobs/text.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/hobs/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/images/makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/ipyviews.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/knowledge.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/learning.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/aima/learning.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/learning4e.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/logic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/aima/logic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/logic4e.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/making_simple_decision4e.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/mdp.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/aima/mdp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/mdp4e.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/nlp.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/aima/nlp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/nlp4e.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/notebook.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/notebook4e.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/perception4e.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/planning.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/aima/planning.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/probabilistic_learning.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/probability.doctest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/probability.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/aima/probability.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/probability4e.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/reinforcement_learning.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/reinforcement_learning4e.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/rl.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/aima/rl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/search.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/aima/search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/text.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/aima/text.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/aima/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/aima/utils4e.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/nessvec.exe" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +144,7 @@
       <option name="presentableId" value="Default" />
       <updated>1713562421598</updated>
       <workItem from="1713562425963" duration="4066000" />
-      <workItem from="1713567129348" duration="1594000" />
+      <workItem from="1713567129348" duration="2149000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit.">
       <created>1713567348094</created>
@@ -113,7 +167,21 @@
       <option name="project" value="LOCAL" />
       <updated>1713568376679</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adding missing packages.">
+      <created>1713568779168</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713568779168</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Modifying packages.">
+      <created>1713568907184</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713568907184</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +191,8 @@
     <MESSAGE value="Initial commit." />
     <MESSAGE value="Adding aima to requirements.txt." />
     <MESSAGE value="Adding missing files." />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding missing files." />
+    <MESSAGE value="Adding missing packages." />
+    <MESSAGE value="Modifying packages." />
+    <option name="LAST_COMMIT_MESSAGE" value="Modifying packages." />
   </component>
 </project>
