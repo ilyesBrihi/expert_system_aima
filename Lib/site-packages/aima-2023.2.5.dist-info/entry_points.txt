@@ -1,0 +1,3 @@
+[console_scripts]
+nessvec=nessvec.main:main
+
