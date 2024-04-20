@@ -1,0 +1,8 @@
+# render.yaml
+
+# Set the start command
+services:
+  - type: web
+    name: expert_system_aima
+    env:
+      - PYTHON_VERSION=3.7
