@@ -23,7 +23,6 @@ cffi~=1.15.1
 pandas~=1.1.5
 python-dateutil~=2.8.2
 psutil~=5.9.8
-pywin32~=306
 debugpy~=1.7.0
 Django~=3.2.24
 traitlets~=5.9.0
